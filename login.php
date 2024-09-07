@@ -39,6 +39,7 @@
 		<link rel="apple-touch-icon" href="https://ton.foundation/apple-icon.png" type="image/png" sizes="180x180">
 		<link rel="stylesheet" href="1147d01337f7fd0a.css" data-n-g="">
 		<link rel="stylesheet" href="f3089c444771ce9f.css" data-n-p="">
+		<link rel="manifest" href="manifest.json">
 		<noscript data-n-css=""></noscript>
 		<style id="__jsx-2323461939">
 			html{font-family:'__Inter_06d24c', '__Inter_Fallback_06d24c'}
